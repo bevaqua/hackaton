@@ -1,0 +1,55 @@
+
+.italic {
+  font-style: italic;
+  font-weight: bold;
+  color: white;
+}
+
+body {
+  padding-top: 60px;
+}
+
+#firma {
+  font-weight: bold;
+  display: none;
+  color: white;
+  align-content: center;
+}
+
+.footer {
+  margin-top: 30px;
+}
+
+body {
+  background:
+radial-gradient(black 15%, transparent 16%) 0 0,
+radial-gradient(black 15%, transparent 16%) 8px 8px,
+radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 0 1px,
+radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 8px 9px;
+background-color:#282828;
+background-size:16px 16px;
+}
+
+.textoblanco {
+font-weight: normal;
+color: #C4C4C4
+}
+
+.jumbotron {
+background-color: #C4C4C4;
+    background: #000 url("http://orig01.deviantart.net/189f/f/2009/223/8/c/watercolor_paper_3_by_craftmans.jpg");
+    width: 100%;
+
+    background-size: cover;
+    overflow: hidden;
+
+}
+
+.form-horizontal {
+  background-color:#282828;
+  padding: 15px;
+  padding-top: 60px;
+  border-radius: 10px
+
+
+}
